@@ -1,0 +1,10 @@
+footer{
+    height: 8vh;
+    background-color: rgb(197, 77, 107);
+}
+
+footer p{
+    text-align: center;
+    color: bisque;
+    font-size: 3vh;
+}
